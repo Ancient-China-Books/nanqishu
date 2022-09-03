@@ -144,7 +144,10 @@ p:hover .gg-link {
   visibility: visible;
 }
 p.margin2 {
-  margin-left:2em;
+  margin-left: 2em;
+}
+p.margin3 {
+  margin-left: 3em;
 }
 p.strong {
   font-weight: bold;
